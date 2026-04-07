@@ -1,0 +1,27 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamBlink",
+			"GroupId": "",
+			"Name": "Falando"
+		},
+		{
+			"Id": "ParamBlinks",
+			"GroupId": "",
+			"Name": "Blink"
+		},
+		{
+			"Id": "ParamRabinho",
+			"GroupId": "",
+			"Name": "Rabinho"
+		},
+		{
+			"Id": "ParamHead",
+			"GroupId": "",
+			"Name": "Head"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": []
+}
